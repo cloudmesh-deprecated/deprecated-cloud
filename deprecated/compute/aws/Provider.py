@@ -63,7 +63,7 @@ class Provider(ComputeNodeABC, ComputeProviderPlugin):
                       "image",
                       "public_ips",
                       "private_ips",
-                      "cm.creation_time",
+                      "cm.create",
                       "created",
                       "cm.kind"],
             "header": ["Name",
